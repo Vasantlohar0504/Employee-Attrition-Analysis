@@ -151,6 +151,15 @@ streamlit run dashboard/app.py
 
 ```
 
+---
+# 🌐 Live Dashboard
+
+🚀 **Access the interactive dashboard here:**
+
+👉 **[Open Live Dashboard](https://employee-attrition-analysis-dashboard.streamlit.app/)**
+
+
+---
 # 📊 Business Insights
 
 Key insights discovered during the analysis:
