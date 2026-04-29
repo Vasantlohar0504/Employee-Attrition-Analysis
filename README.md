@@ -1,4 +1,4 @@
-# 📊 Employee Attrition Analytics Dashboard
+# 👥 Employee Attrition Analytics Dashboard
 
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
